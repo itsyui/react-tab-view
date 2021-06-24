@@ -1,5 +1,5 @@
 import { ItsyTabs } from '@itsy-ui/navigation';
-import "@itsy-ui/data/fields";
+import "@itsy-ui/common";
 import { StateManagerContext } from "@itsy-ui/core";
 
 const items = [
